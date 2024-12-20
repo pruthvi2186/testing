@@ -1,0 +1,15 @@
+{
+  "name": "basic",
+  "type": "module",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "pnpm vitest --outputTruncateLength 500"
+  },
+  "author": "M. Bagher Abiat",
+  "license": "ISC",
+  "dependencies": {
+    "venode": "workspace:^0.1.0"
+  }
+}
